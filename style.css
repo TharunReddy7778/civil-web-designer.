@@ -75,7 +75,7 @@
   
 
 }
-.icons{
+.icons {
   
   font-size: 1.7rem;
   align-content: center;
@@ -90,12 +90,15 @@
   
 
 }
+.icons a{
+  color: #fff;
+}
 .icons .fa-brands{
   background: transparent;
 
 }
 .icons .fa-brands:hover{
-  background: linear-gradient(white, blue);
+  background: linear-gradient(#fff, blue);
   cursor: pointer;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
